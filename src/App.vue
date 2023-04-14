@@ -2,7 +2,7 @@
 import HelloWorld from './components/HelloWorld.vue'
 </script>
 
-<link rel="stylesheet" href="./tailwind/output.css" />
+<!-- <link rel="stylesheet" href="/./tailwind/output.css" /> -->
 
 
 <template>
