@@ -16,7 +16,7 @@ import HelloWorld from './components/HelloWorld.vue'
   </div> -->
 
   <div class="max-w-sm rounded overflow-hidden shadow-lg nip">
-  <img class="nip logo" src="nip.jpg">
+  <img class="nip logo" src="./assets/nip.jpg">
   <div class="px-6 py-4">
     <div class="font-bold text-xl mb-2 name">Muhammad Anif Bin Ilham</div>
     <p class="text-gray-700 text-base text">Group Code : DWDT07</p>
