@@ -20,7 +20,7 @@ import HelloWorld from './components/HelloWorld.vue'
   <div class="px-6 py-4">
     <div class="font-bold text-xl mb-2 name">Muhammad Anif Bin Ilham</div>
     <p class="text-gray-700 text-base text">Group Code : DWDT07</p>
-    <p class="text-gray-700 text-base text">Student ID : 21FTT1288</p>
+    <p class="text-gray-700 text-base text">Student ID : bahit</p>
     <p class="text-gray-700 text-base text">Course : Diploma in Web Development</p>
     <br>
     <p class="text-gray-700 text-base text">Just some guy, likes things that he likes and dislikes things that he dislikes.</p>
